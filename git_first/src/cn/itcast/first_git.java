@@ -10,6 +10,8 @@ public class first_git {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+
+        //嘻嘻嘻嘻
     }
 
 }
